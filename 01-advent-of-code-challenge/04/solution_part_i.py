@@ -17,3 +17,4 @@ for idx, i in enumerate(list):
         sum += 1
 
 print(sum)
+# teste
